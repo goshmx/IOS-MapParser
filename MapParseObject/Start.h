@@ -7,8 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "WebServices.h"
+#import "Declarations.h"
+#import "Parser.h"
 
-@interface ViewController : UIViewController
+@interface Start : UIViewController
 
 
 @end
